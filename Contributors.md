@@ -1,6 +1,5 @@
 
 # Contributors
-Trần Đại Nguyên
 -[Leandro Reis](https://github.com/leandro-01)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
@@ -2507,4 +2506,5 @@ DanyLeeCS
 - [Abhay Mishra](https://github.com/abhay7865)
 - [msun726](https://github.com/msun726)
 - [bi3mer](https://github.com/bi3mer)
+- [trandainguyen](https://github.com/trandainguyen)
 
